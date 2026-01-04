@@ -16,17 +16,36 @@
 
 </p>
 
-<h3 align="left">🧠 Data Analyst Toolkit</h3>
+<h3 align="left">🛠️ Data Analyst Tech Stack</h3>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> Python &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> MySQL &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/excel.svg" width="40"/> Excel &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40"/> Power BI &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="40"/> Tableau &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/> Oracle
-</p>
-
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br/>
+      Python
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/><br/>
+      MySQL
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/excel.svg" width="40"/><br/>
+      Excel
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40"/><br/>
+      Power BI
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="40"/><br/>
+      Tableau
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/><br/>
+      Oracle
+    </td>
+  </tr>
+</table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meah&show_icons=true&locale=en&layout=compact" alt="meah" /></p>
 
