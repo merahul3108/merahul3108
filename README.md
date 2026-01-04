@@ -49,12 +49,9 @@
 
 ---
 ### 📊 GitHub Overview
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=merahul3108&layout=compact&theme=dark)
-
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=merahul3108&show_icons=true&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=merahul3108&theme=dark)
+
 
 
 
