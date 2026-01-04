@@ -37,12 +37,8 @@
       Power BI
     </td>
    <td align="center" width="120">
-  <img 
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg"
-    width="40"
-    style="fill:#E97627;"
-   /><br/>
-   Tableau
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/><br/>
+  Tableau
     </td>
    <td align="center" width="120">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/><br/>
@@ -51,8 +47,24 @@
   </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meah&show_icons=true&locale=en&layout=compact" alt="meah" /></p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=merahul3108&layout=compact&theme=dark"
+    height="150"
+  />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meah&show_icons=true&locale=en" alt="meah" /></p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=merahul3108&show_icons=true&theme=dark"
+    height="150"
+  />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meah&" alt="meah" /></p>
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=merahul3108&theme=dark"
+    height="150"
+  />
+</p>
+
