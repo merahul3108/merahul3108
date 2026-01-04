@@ -47,24 +47,9 @@
   </tr>
 </table>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=merahul3108&layout=compact&theme=dark"
-    height="150"
-  />
-</p>
+### 📊 GitHub Overview
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=merahul3108&show_icons=true&theme=dark"
-    height="150"
-  />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=merahul3108&theme=dark)
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=merahul3108&theme=dark"
-    height="150"
-  />
-</p>
+
 
