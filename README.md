@@ -36,11 +36,15 @@
       <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40"/><br/>
       Power BI
     </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="40"/><br/>
-      Tableau
+   <td align="center" width="120">
+  <img 
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg"
+    width="40"
+    style="fill:#E97627;"
+   /><br/>
+   Tableau
     </td>
-    <td align="center" width="120">
+   <td align="center" width="120">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/><br/>
       Oracle
     </td>
